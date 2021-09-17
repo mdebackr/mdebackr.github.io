@@ -1,0 +1,38 @@
+.background {
+    background-color: #CAB998;
+    margin: 0;
+    font-family: "Times New Roman";
+}
+
+.header {
+    padding: 20px;
+    background-color: #CA9A56;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 25px;
+    border-bottom: 5px solid #8D573F;
+    overflow: hidden;
+
+}
+
+.header a {
+    float: left;
+    color: #534040;
+    text-align: center;
+    font-size:30px;
+    line-height:25px;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 10px;
+    margin-right: 7px;
+}
+
+.header a:hover {
+    background-color: #8D573F;
+    color: #CAB998;
+}
+
+.header-right {
+    float: right;
+}
+
